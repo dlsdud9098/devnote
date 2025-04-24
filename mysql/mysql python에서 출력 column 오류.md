@@ -5,7 +5,7 @@
 
 ![alt text](../imgs/mysql/image.png)
 
-## 🔍 원인 분석
+## 🔍 원인 분석 & 시도 방법
 - mysql에서 직접 출력해봄.
 
 <p align="center" style="color:gray">
